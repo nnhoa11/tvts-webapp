@@ -1,3 +1,6 @@
+This project was moved from Azure to Github by author so you can't see any previous commits before the project was moved to here
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
