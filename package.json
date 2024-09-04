@@ -1,0 +1,40 @@
+{
+  "name": "webapp-for-offline",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.4",
+    "@mui/joy": "^5.0.0-beta.25",
+    "@mui/material": "^5.15.2",
+    "axios": "^1.6.5",
+    "file-saver": "^2.0.5",
+    "jwt-decode": "^4.0.0",
+    "next": "14.0.4",
+    "qrcode.react": "^3.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-qr-code": "^2.0.12",
+    "react-spinners": "^0.13.8",
+    "react-use-downloader": "^1.2.4",
+    "sharp": "^0.33.2",
+    "universal-cookie": "^7.0.1"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}

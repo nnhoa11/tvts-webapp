@@ -1,0 +1,36 @@
+body {
+    margin: 0
+}
+#qr{
+    border: solid 3px white;
+}
+
+.open-fb-message {
+    text-align: center;
+    font-weight: 600;
+    margin: 30px;
+}
+
+.open-facebook-browser {
+    display: none;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    max-width: 100vw;
+    align-items: center;
+}
+
+.open-fb-button {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+
+.open-fb-button:hover {
+    color: white;
+}
